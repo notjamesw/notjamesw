@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm [James](https://jameswen.netlify.app/)!
 
-I'm currently working at 🌲[Korotu]([url]https://www.korotu.com/) building UAV-based forest monitoring machine learning models and software. Prev @ 🍁[IRCC]([url](https://www.canada.ca/en/immigration-refugees-citizenship.html)) & ➿[AUAV Technology]([url](https://auav.ca/))
+I'm currently working at 🌲[Korotu](https://www.korotu.com/) building UAV-based forest monitoring machine learning models and software. Prev @ 🍁[IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) & ➿[AUAV Technology](https://auav.ca/)
 
 I'm also a **Computer Science and Statistics** student at the 🏔️ **University of British Columbia**! I love working and building projects that can drive a positive change in my community and in the world!
 
