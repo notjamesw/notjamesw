@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm [James](https://jameswen.netlify.app/)!
+## 👋 Hi there, I'm [James Wen](https://jameswen.netlify.app/)!
 
 I'm currently working at 🌲[Korotu](https://www.korotu.com/) building UAV-based forest monitoring machine learning models and software. Prev @ 🍁[IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) & ➿[AUAV Technology](https://auav.ca/)
 
