@@ -10,8 +10,8 @@ I'm also a **Computer Science and Statistics** student at the 🏔️ **Universi
 - 🧑‍🤝‍🧑 Senior Orientation Leader for the Faculty of Science at UBC
 
 **🛠️ Here are some cool projects I'm currently working on:**
-- [Vancouver Eats](https://github.com/notjamesw/Vancouver-Eats) - AI-powered restaurant recommendation app for your biggest cravings!
 - [KRtoCan](https://github.com/notjamesw/KRtoCAN) - Converts everything Korean to Canadian!
+- [Vancouver Eats](https://github.com/notjamesw/Vancouver-Eats) - AI-powered restaurant recommendation app for your biggest cravings!
 - [2048 Game](https://github.com/notjamesw/2048ChromeExtension) - 2048 clone with tile animations and a leaderboard system so you can compete with your friends!
 
 <!--
