@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm [James Wen](https://jameswen.netlify.app/)!
 
-I'm currently working at [Squarepoint Capital](https://www.squarepoint-capital.com) working on low-latency IPC for Order Gateways. Prev @ 🌲[Korotu](https://www.korotu.com/), 🍁[IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) & ➿[AUAV Technology](https://auav.ca/).
+I'm currently working at 📈 [Squarepoint Capital](https://www.squarepoint-capital.com) working on low-latency IPC for Order Gateways. Prev @ 🌲[Korotu](https://www.korotu.com/), 🍁[IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) & ➿[AUAV Technology](https://auav.ca/).
 
 I'm also a **Computer Science and Statistics** student at the 🏔️ **University of British Columbia**! I love working and building projects that can drive a positive change in my community and in the world!
 
